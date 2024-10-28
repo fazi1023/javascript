@@ -13,3 +13,20 @@ console.log(typeof score);
 console.log(typeof(score));
 console.log(typeof(newValue))
 
+/********************operation */
+
+// console.log(2+2)
+// console.log(2-2)
+// console.log(2%3)
+// console.log(2*3)
+console.log(1 + 1+"3");
+console.log("1" + 1+1);
+
+//write way 
+console.log((3 +4) +(3*4 ) * 5)
+ let gameCounter = 100;
+ gameCounter++;
+ console.log(gameCounter);
+ ++gameCounter;
+ console.log(gameCounter);
+ 
